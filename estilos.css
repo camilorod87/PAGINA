@@ -1,0 +1,40 @@
+body
+{
+background-color:black; 
+}
+h1
+{
+	color: #FFFF00;
+	font-size: 80px;
+}
+h2,li
+{
+	color:#00FF00;
+	font-size: 20px;
+	font-family: "calibri", Garamond, 'Comic Sans';
+}
+h5,ol,p
+{
+	color: #00FF00;
+	font-size: 16px;
+	
+	font-family: "calibri", Garamond, 'Comic Sans';
+}
+h4
+{
+color:#00FF00;
+	font-size: 22px;
+	font-family: "calibri", Garamond, 'Comic Sans';
+}
+table
+{
+	background-color:#151515;
+}
+h3
+{
+	color:#00FF00;
+	font-size: 20px;
+	font-family: "calibri", Garamond, 'Comic Sans';
+}
+
+
